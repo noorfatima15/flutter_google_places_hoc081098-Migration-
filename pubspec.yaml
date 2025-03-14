@@ -28,7 +28,7 @@ dependencies:
   collection: ^1.19.0
   flutter_bloc_pattern: ^3.0.0
   json_annotation: ^4.9.0
-  meta: ^1.15.0
+  meta: 1.15.0
 
 dev_dependencies:
   flutter_test:
